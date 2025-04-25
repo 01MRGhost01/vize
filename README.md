@@ -1,3 +1,6 @@
+OĞULCAN ESENDİR
+2023688031
+
 El Hareketi ile Parlaklık Kontrolü ve Google Açma
 Bu proje, MediaPipe kullanarak el hareketlerini algılar, parmak sayısını hesaplar, ekran parlaklığını kontrol eder ve belirli bir hareketle Google’ı açar. Görüntü işleme teknikleriyle el takibi yaparak kullanıcı dostu bir arayüz sunar.
 Özellikler
