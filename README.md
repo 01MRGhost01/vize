@@ -7,7 +7,6 @@ Bu proje, MediaPipe kullanarak el hareketlerini algılar, parmak sayısını hes
 
 Parmak Sayımı:
 Avuç yukarı: Kaldırılan parmak sayısını 0’dan başlayarak sayar.
-Elin arkası: Katlanmayan parmak sayısını 5’ten başlayarak azaltır.
 
 
 Parlaklık Kontrolü: Başparmak ve işaret parmağı arasındaki mesafeye göre ekran parlaklığını ayarlar (0-100%).
